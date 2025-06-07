@@ -4,5 +4,6 @@ lxml
 numpy
 matplotlib
 pandas
+plotly
 jupyter
 yfinance
