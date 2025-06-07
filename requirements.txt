@@ -1,9 +1,18 @@
-bs4
-html5lib
-lxml
-numpy
-matplotlib
-pandas
-plotly
-jupyter
-yfinance
+# Web Scraping & HTML Parsing
+bs4==0.0.2
+html5lib==1.1
+lxml===4.9.3
+
+# Data Analysis & Manipulation
+numpy==1.23.5
+pandas==1.5.3
+
+# Financial Data
+yfinance===0.2.19
+
+# Plotting & Visualization
+matplotlib==3.6.2
+plotly==5.10.0
+
+# Interactive Computing Environment
+jupyter==1.0.0
