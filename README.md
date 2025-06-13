@@ -1,10 +1,10 @@
-# 📊 Market Data & Web Scraping Project
+# Market Data & Web Scraping Project
 
 This project focuses on collecting and analyzing market data. It uses `yfinance` to fetch financial information and web scraping techniques (with libraries like `requests` and `BeautifulSoup`) to extract data directly from web pages.
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 This project combines two main approaches to gather comprehensive market insights:
 
@@ -32,10 +32,9 @@ Make sure you have **Python 3.8+** installed.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-project-name.git
-    cd your-project-name
+    git clone https://github.com/Filip3Owl/MarketStockingProject.git
+    cd MarketStockingProject
     ```
-    (Remember to replace `your-username` and `your-project-name` with your actual GitHub details.)
 
 2.  **Create and activate a virtual environment** (recommended for managing dependencies):
     ```bash
@@ -63,7 +62,7 @@ python main.py
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Suggestions and improvements are always welcome! Feel free to open issues or submit pull requests.
 
