@@ -20,7 +20,7 @@ The collected data is then processed and organized for analysis, leading to insi
 
 ---
 
-## ⚙️ Get Started
+## Get Started
 
 Here's how to set up and run this project on your machine:
 
